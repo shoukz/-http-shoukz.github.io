@@ -1,1 +1,1 @@
-# -http-shoukz.github.io
+# shoukz.github.io
